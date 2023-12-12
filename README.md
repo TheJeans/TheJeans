@@ -1,138 +1,46 @@
-<img src="./rain-header.gif" alt="Your Description" style="width: 100%;">
+![Rain Header](./rain-header.gif)
 
-<br/>
+# Hi there, I'm Darian Glausier!
 
-<div style="display: flex; align-items: center;">
-    <h1 style="margin: 0; border:none;">Hi there, I'm Darian Glausier!</h1>
-    <span style="padding-top: 0.3em; padding-bottom: 0.4em; padding-left: 1em; padding-right: 1em; background-color: #CAB6CD; color: black; border-radius: 9999px; font-weight: bold; font-size:12px; margin-left:10px;">she/hers</span>
-</div>
+## Frontend Software Engineer | UI/UX Engineer | Accessibility Advocate
 
-<h2 style="margin: 0; border:none; margin-top:15px; line-height:1.6em;">Frontend Software Engineer | UI/UX Engineer | Accessibility Advocate</h2>
+With experience in frontend development, I specialize in creating accessible, user-friendly web applications. I'm passionate about modern web technologies and committed to writing clean, efficient code.
 
-<p style="margin: 0; border:none; margin-top:5px; line-height:2em;">With experience in frontend development, I specialize in creating accessible, user-friendly web applications. I'm passionate about modern web technologies and committed to writing clean, efficient code.</p>
+### What I do:
+- Develop scalable applications using React, TypeScript, and Next.js.
+- Advocate for web accessibility and adhere to WCAG guidelines.
+- Drive innovation in UI/UX design.
 
-<h3 style="margin: 0; border:none; margin-top:20px; line-height:1.6em;"> What I do:</h3>
-
-<ul style="margin: 0; border:none; margin-top:5px; line-height:2.3em;">
-    <li>💻 Develop scalable applications using React, TypeScript, and Next.js.</li>
-    <li>🌐 Advocate for web accessibility and adhere to WCAG guidelines.</li>
-    <li>📊 Drive innovation in UI/UX design.</li>
-</ul>
-
-<h3 style="margin: 0; border:none; margin-top:20px; line-height:1.6em;">Tech Stack:</h3>
-
-<h4 style="opacity:50%;margin: 0; border:none; margin-top:5px; line-height:1.6em;">Frameworks:</h4>
-
-<ul style="display: flex; flex-wrap: wrap; gap: 10px; margin-top:10px; align-items: center; list-style: none; padding: 0; color:black;">
-    <li style="display: flex; align-items: center; background-color: #F7F7FF; border-radius: 8px; padding: 4px 10px; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);">
-        <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" style="width: 30px; height: 30px;">
-        <span style="margin-left: 5px;">React</span>
-    </li>
-    <li style="display: flex; align-items: center; background-color: #F7F7FF; border-radius: 8px; padding: 4px 10px; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);">
-        <img src="https://www.svgrepo.com/show/306466/next-dot-js.svg" alt="Next.js" style="width: 30px; height: 30px;">
-        <span style="margin-left: 5px;">Next.js</span>
-    </li>
-    <li style="display: flex; align-items: center; background-color: #F7F7FF; border-radius: 8px; padding: 4px 10px; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);">
-        <img src="https://www.svgrepo.com/show/378837/node.svg" alt="Node.js" style="width: 30px; height: 30px;">
-        <span style="margin-left: 5px;">Node.js</span>
-    </li>
-    <li style="display: flex; align-items: center; background-color: #F7F7FF; border-radius: 8px; padding: 4px 10px; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);">
-        <img src="https://www.svgrepo.com/show/493625/vue-vuejs-javascript-js-framework.svg" alt="Vue" style="width: 30px; height: 30px;">
-        <span style="margin-left: 5px;">Vue</span>
-    </li>
-    <li style="display: flex; align-items: center; background-color: #F7F7FF; border-radius: 8px; padding: 4px 10px; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);">
-        <img src="https://www.svgrepo.com/show/452156/angular.svg" alt="Angular" style="width: 30px; height: 30px;">
-        <span style="margin-left: 5px;">Angular</span>
-    </li>
-    <li style="display: flex; align-items: center; background-color: #F7F7FF; border-radius: 8px; padding: 4px 10px; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);">
-        <img src="https://www.svgrepo.com/show/452093/redux.svg" alt="Redux" style="width: 30px; height: 30px;">
-        <span style="margin-left: 5px;">Redux</span>
-    </li>
-</ul>
-
-<h4 style="opacity:50%;margin: 0; border:none; margin-top:5px; line-height:1.6em;">Languages:</h4>
-
-<ul style="display: flex; flex-wrap: wrap; gap: 10px; margin-top:10px; align-items: center; list-style: none; padding: 0; color:black;">
-    <li style="display: flex; align-items: center; background-color: #F7F7FF; border-radius: 8px; padding: 4px 10px; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);">
-        <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt="TypeScript" style="width: 30px; height: 30px;">
-        <span style="margin-left: 5px;">TypeScript</span>
-    </li>
-    <li style="display: flex; align-items: center; background-color: #F7F7FF; border-radius: 8px; padding: 4px 10px; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);">
-        <img src="https://www.svgrepo.com/show/452045/js.svg" alt="JavaScript" style="width: 30px; height: 30px;">
-        <span style="margin-left: 5px;">JavaScript</span>
-    </li>
-    <li style="display: flex; align-items: center; background-color: #F7F7FF; border-radius: 8px; padding: 4px 10px; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);">
-        <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" style="width: 30px; height: 30px;">
-        <span style="margin-left: 5px;">SQL</span>
-    </li>
-    <li style="display: flex; align-items: center; background-color: #F7F7FF; border-radius: 8px; padding: 4px 10px; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);">
-        <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5" style="width: 30px; height: 30px;">
-        <span style="margin-left: 5px;">HTML5</span>
-    </li>
-    <li style="display: flex; align-items: center; background-color: #F7F7FF; border-radius: 8px; padding: 4px 10px; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);">
-        <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3" style="width: 30px; height: 30px;">
-        <span style="margin-left: 5px;">CSS3</span>
-    </li>
-    <li style="display: flex; align-items: center; background-color: #F7F7FF; border-radius: 8px; padding: 4px 10px; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);">
-        <img src="https://www.svgrepo.com/show/422454/heart-love-romantic.svg" alt="CSS3" style="width: 30px; height: 30px;">
-        <span style="margin-left: 5px;">& More!</span>
-    </li>
-</ul>
-
-<h4 style="opacity:50%;margin: 0; border:none; margin-top:5px; line-height:1.6em;">Tools & Libraries:</h4>
-
-<ul style="display: flex; flex-wrap: wrap; gap: 10px; margin-top:10px; align-items: center; list-style: none; padding: 0; color:black;">
-    <li style="display: flex; align-items: center; background-color: #F7F7FF; border-radius: 8px; padding: 4px 10px; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);">
-        <img src="https://www.svgrepo.com/show/354552/webpack.svg" alt="Webpack" style="width: 30px; height: 30px;">
-        <span style="margin-left: 5px;">Webpack</span>
-    </li>
-    <li style="display: flex; align-items: center; background-color: #F7F7FF; border-radius: 8px; padding: 4px 10px; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);">
-        <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="Material UI" style="width: 30px; height: 30px;">
-        <span style="margin-left: 5px;">Material UI</span>
-    </li>
-    <li style="display: flex; align-items: center; background-color: #F7F7FF; border-radius: 8px; padding: 4px 10px; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);">
-        <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="Bootstrap" style="width: 30px; height: 30px;">
-        <span style="margin-left: 5px;">Bootstrap</span>
-    </li>
-    <li style="display: flex; align-items: center; background-color: #F7F7FF; border-radius: 8px; padding: 4px 10px; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);">
-        <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" style="width: 30px; height: 30px;">
-        <span style="margin-left: 5px;">Git</span>
-    </li>
-    <li style="display: flex; align-items: center; background-color: #F7F7FF; border-radius: 8px; padding: 4px 10px; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);">
-        <img src="https://www.svgrepo.com/show/373460/babel2.svg" alt="Babel" style="width: 30px; height: 30px;">
-        <span style="margin-left: 5px;">Babel</span>
-    </li>
-    <li style="display: flex; align-items: center; background-color: #F7F7FF; border-radius: 8px; padding: 4px 10px; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);">
-        <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" style="width: 30px; height: 30px;">
-        <span style="margin-left: 5px;">Tailwind CSS</span>
-    </li>
-    <li style="display: flex; align-items: center; background-color: #F7F7FF; border-radius: 8px; padding: 4px 10px; box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);">
-        <img src="https://www.svgrepo.com/show/422454/heart-love-romantic.svg" alt="CSS3" style="width: 30px; height: 30px;">
-        <span style="margin-left: 5px;">& More!</span>
-    </li>
-</ul>
-
-<hr style="margin-top:40px;"/>
-
-<br/>
-
-<a href="https://darianglausier.com" target="_blank" rel="noopener noreferrer" style="border:none; margin-top:40px;">Website: darianglausier.com</a>
-
-<a href="https://www.linkedin.com/in/darian-glausier-7b010319a" target="_blank" rel="noopener noreferrer" style="border:none;">LinkedIn: Darian Glausier</a>
+### Tech Stack:
+#### Frameworks:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=ffffff)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=ffffff)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=ffffff)
 
 
+#### Languages:
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
+![& More](https://img.shields.io/badge/-&%20more-2E3238?style=for-the-badge)
 
-<!--
-**TheJeans/TheJeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### Tools & Libraries:
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![& More](https://img.shields.io/badge/-&%20more-2E3238?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[Website: darianglausier.com](https://darianglausier.com)
+
+[LinkedIn: Darian Glausier](https://www.linkedin.com/in/darian-glausier-7b010319a)
