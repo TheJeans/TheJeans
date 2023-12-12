@@ -7,9 +7,11 @@
 With experience in frontend development, I specialize in creating accessible, user-friendly web applications. I'm passionate about modern web technologies and committed to writing clean, efficient code.
 
 ### What I do:
-- Develop scalable applications using React, TypeScript, and Next.js.
-- Advocate for web accessibility and adhere to WCAG guidelines.
-- Drive innovation in UI/UX design.
+🛠️ Develop scalable applications using React, TypeScript, and Next.js.
+
+🌍 Advocate for web accessibility and adhere to WCAG guidelines.
+
+🎨 Drive innovation in UI/UX design.
 
 ### Tech Stack:
 #### Frameworks:
